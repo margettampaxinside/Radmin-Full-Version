@@ -238,4 +238,4 @@ This repository serves as the official landing page for Radmin. The software is 
 **Get the most recent version of Radmin today!**
 
 ---
-**Last updated:** 2026-09-12 23:32:07 UTC
+**Last updated:** 2026-09-13 01:54:19 UTC
